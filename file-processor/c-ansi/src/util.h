@@ -1,0 +1,13 @@
+
+
+#ifndef FILE_PROCESSOR_UTIL_H
+#define FILE_PROCESSOR_UTIL_H
+
+
+typedef enum {
+	SUCCESS,
+	FAILURE
+} RESULT;
+
+
+#endif //FILE_PROCESSOR_UTIL_H
